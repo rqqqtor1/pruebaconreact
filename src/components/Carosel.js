@@ -7,7 +7,7 @@ const Carosel = () => {
       <div id="carouselExample" className="carousel slide">
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="imagen.png" className="d-block w-100" alt="Slide 1" />
+            <img src="https://i.pinimg.com/736x/04/da/f5/04daf59fd22b4b284d101905996984d2.jpg" className="d-block w-100" alt="Slide 1" />
           </div>
           <div className="carousel-item">
             <img src="imagen.png" className="d-block w-100" alt="Slide 2" />

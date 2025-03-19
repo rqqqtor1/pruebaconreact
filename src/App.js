@@ -12,6 +12,16 @@ import Carosel from './components/Carosel';
 import Tostadas from './components/Tostadas';
 import BotonTostadas from './components/BotonTostadas';
 import Linkeados from './components/Linkeados';
+import LargeButtons from './components/LargeButtons';
+import Colapse from './components/Colapse';
+import Desaparicion from './components/Desaparicion';
+import MyDropdown from './components/MyDropdown';
+import GroupDropdown from './components/GroupDropdown';
+import Aligment from './components/Aligment';
+import Form from './components/Form';
+import ListGroup from './components/ListGroup';
+import Subheading from './components/Subheading';
+import Modaldeflutterjej from './components/Modaldeflutterjej';
 
 
 function App() {
@@ -44,6 +54,36 @@ function App() {
       </div>
       <div>
       <Linkeados/>
+      </div>
+      <div>
+      <LargeButtons/>
+      </div>
+      <div>
+      <Colapse/>
+      </div>
+      <div>
+      <Desaparicion/>
+      </div>
+      <div>
+      <MyDropdown/>
+      </div>
+      <div>
+      <GroupDropdown/>
+      </div>
+      <div>
+      <Aligment/>
+      </div>
+      <div>
+      <Form/>
+      </div>
+      <div>
+      <ListGroup/>
+      </div>
+      <div>
+      <Subheading/>
+      </div>
+      <div>
+      <Modaldeflutterjej/>
       </div>
     </div>
     
